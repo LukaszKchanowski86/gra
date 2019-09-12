@@ -1,0 +1,7 @@
+D:\Users\l.kochanowski\source\repos\GraZaDuzoZaMalo\Monolitycznie\bin\Debug\Monolitycznie.exe.config
+D:\Users\l.kochanowski\source\repos\GraZaDuzoZaMalo\Monolitycznie\bin\Debug\Monolitycznie.exe
+D:\Users\l.kochanowski\source\repos\GraZaDuzoZaMalo\Monolitycznie\bin\Debug\Monolitycznie.pdb
+D:\Users\l.kochanowski\source\repos\GraZaDuzoZaMalo\Monolitycznie\obj\Debug\Monolitycznie.csprojAssemblyReference.cache
+D:\Users\l.kochanowski\source\repos\GraZaDuzoZaMalo\Monolitycznie\obj\Debug\Monolitycznie.csproj.CoreCompileInputs.cache
+D:\Users\l.kochanowski\source\repos\GraZaDuzoZaMalo\Monolitycznie\obj\Debug\Monolitycznie.exe
+D:\Users\l.kochanowski\source\repos\GraZaDuzoZaMalo\Monolitycznie\obj\Debug\Monolitycznie.pdb
